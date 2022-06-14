@@ -1,0 +1,3 @@
+displayName = PaulQpro's Terraria Miscellaneous
+author = PaulQpro
+version = 0.1
